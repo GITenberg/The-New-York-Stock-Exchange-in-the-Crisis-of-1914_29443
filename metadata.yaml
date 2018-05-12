@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '33912'
     url: http://www.gutenberg.org/2009/agents/33912
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29443#The-New-York-Stock-Exchange-in-the-Crisis-of-1914
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2009-07-18'
 gutenberg_type: Text
